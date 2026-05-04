@@ -1,0 +1,13 @@
+# Virtual Environments
+venv/
+env/
+
+# Secrets and API Keys (Crucial for your Gemini/Google imports!)
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Streamlit specific (optional, but good practice)
+.streamlit/secrets.toml
