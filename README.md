@@ -30,7 +30,15 @@ In a fast-paced ecosystem, manually tracking what makes a startup or creator go 
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Harshahv12/ai-powered-growth-auditor--for-websites-.git](https://github.com/Harshahv12/ai-powered-growth-auditor--for-websites-.git)
-2. **Navigate to the directory:**  cd ai-powered-growth-auditor--for-websites-
-3. **Install required dependencies:** pip install -r requirements.txt
-4. **Set up your environment variables:** Create a .env file in the root directory and add GEMINI_API_KEY="your_api_key_here"
-5. **Run the application:** streamlit run GrowthAudit.py
+2. **Navigate to the directory:**
+   ```bash 
+   cd ai-powered-growth-auditor--for-websites-
+3. **Install required dependencies:** 
+   ```bash
+   pip install -r requirements.txt
+4. **Set up your environment variables:** 
+   ```bash
+   Create a .env file in the root directory and add GEMINI_API_KEY="your_api_key_here"
+6. **Run the application:**
+   ```bash
+   streamlit run GrowthAudit.py
